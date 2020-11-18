@@ -25,4 +25,4 @@ hs_err_pid*
 # .idea auto create files
 .idea/
 *.iml
-/target/
+whole-demo/attempt-demo/target/
